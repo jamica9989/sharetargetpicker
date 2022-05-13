@@ -1,17 +1,18 @@
 [{
   "type": "flex",
-  "altText": "เทส1",
+  "altText": "คุณมีข้อความใหม่",
   "contents": {
   "type": "bubble",
+  "size": "giga",
   "hero": {
     "type": "image",
-    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/01_1_cafe.png",
+    "url": "https://sv1.picz.in.th/images/2022/05/13/HZDKAP.jpg",
     "size": "full",
-    "aspectRatio": "20:13",
-    "aspectMode": "cover",
+    "aspectRatio": "1:1",
     "action": {
       "type": "uri",
-      "uri": "http://linecorp.com/"
+      "label": "คุณมีข้อความใหม่",
+      "uri": "https://fastbet98.com/"
     }
   },
   "body": {
@@ -20,137 +21,82 @@
     "contents": [
       {
         "type": "text",
-        "text": "Brown Cafe",
-        "weight": "bold",
-        "size": "xl"
+        "text": "สมัครใหม่ รับฟรีเลยทันที",
+        "margin": "none",
+        "size": "lg",
+        "decoration": "none",
+        "gravity": "center",
+        "wrap": true,
+        "align": "center"
       },
       {
-        "type": "box",
-        "layout": "baseline",
-        "margin": "md",
-        "contents": [
-          {
-            "type": "icon",
-            "size": "sm",
-            "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
-          },
-          {
-            "type": "icon",
-            "size": "sm",
-            "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
-          },
-          {
-            "type": "icon",
-            "size": "sm",
-            "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
-          },
-          {
-            "type": "icon",
-            "size": "sm",
-            "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
-          },
-          {
-            "type": "icon",
-            "size": "sm",
-            "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png"
-          },
-          {
-            "type": "text",
-            "text": "4.0",
-            "size": "sm",
-            "color": "#999999",
-            "margin": "md",
-            "flex": 0
-          }
-        ]
-      },
-      {
-        "type": "box",
-        "layout": "vertical",
-        "margin": "lg",
-        "spacing": "sm",
-        "contents": [
-          {
-            "type": "box",
-            "layout": "baseline",
-            "spacing": "sm",
-            "contents": [
-              {
-                "type": "text",
-                "text": "Place",
-                "color": "#aaaaaa",
-                "size": "sm",
-                "flex": 1
-              },
-              {
-                "type": "text",
-                "text": "Miraina Tower, 4-1-6 Shinjuku, Tokyo",
-                "wrap": true,
-                "color": "#666666",
-                "size": "sm",
-                "flex": 5
-              }
-            ]
-          },
-          {
-            "type": "box",
-            "layout": "baseline",
-            "spacing": "sm",
-            "contents": [
-              {
-                "type": "text",
-                "text": "Time",
-                "color": "#aaaaaa",
-                "size": "sm",
-                "flex": 1
-              },
-              {
-                "type": "text",
-                "text": "10:00 - 23:00",
-                "wrap": true,
-                "color": "#666666",
-                "size": "sm",
-                "flex": 5
-              }
-            ]
-          }
-        ]
+        "type": "text",
+        "text": "เพียงสมัครสมาชิกวันนี้รับเครดิตฟรี ทันที มากกว่า 200 บาท ไม่ต้องฝากก่อน สามารถถอนเป็นเงินได้เลย",
+        "wrap": true,
+        "color": "#FF6600",
+        "gravity": "center",
+        "align": "center"
       }
-    ]
+    ],
+    "spacing": "none",
+    "margin": "none",
+    "cornerRadius": "none",
+    "borderWidth": "none"
   },
   "footer": {
     "type": "box",
     "layout": "vertical",
-    "spacing": "sm",
     "contents": [
       {
         "type": "button",
-        "style": "link",
-        "height": "sm",
         "action": {
           "type": "uri",
-          "label": "CALL",
-          "uri": "https://linecorp.com"
-        }
-      },
-      {
-        "type": "button",
-        "style": "link",
-        "height": "sm",
-        "action": {
-          "type": "uri",
-          "label": "WEBSITE",
-          "uri": "https://linecorp.com"
-        }
+          "uri": "https://line.me/ti/p/~@fb89",
+          "label": "สมัครสมาชิก โค็ดเครดิตฟรี !"
+        },
+        "style": "primary",
+        "color": "#0033FF"
       },
       {
         "type": "box",
-        "layout": "vertical",
-        "contents": [],
-        "margin": "sm"
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "ยอดฝากแรกรับ 10%",
+              "uri": "https://casinoauto.io/fastbet89/register"
+            },
+            "style": "primary",
+            "color": "#0033FF"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "มีช่วงนาทีทอง 20%",
+              "uri": "https://casinoauto.io/fastbet89/register"
+            },
+            "style": "primary",
+            "color": "#0033FF"
+          }
+        ],
+        "spacing": "sm"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "สมัครสมาชิกรับโบนัส",
+          "uri": "https://casinoauto.io/fastbet89/register"
+        },
+        "style": "primary",
+        "color": "#0033FF"
       }
     ],
-    "flex": 0
+    "spacing": "sm",
+    "offsetTop": "none"
   }
 }
 }]
