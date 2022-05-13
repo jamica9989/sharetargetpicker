@@ -1,19 +1,18 @@
 [{
   "type": "flex",
-  "altText": "superbas123",
+  "altText": "แชร์",
   "contents": {
   "type": "bubble",
   "size": "giga",
-  "hero": {
-    "type": "image",
-    "url": "https://sv1.picz.in.th/images/2022/05/13/HZbFER.jpg",
-    "size": "full",
-    "aspectRatio": "1:1"
-  },
   "body": {
     "type": "box",
     "layout": "vertical",
-    "contents": []
+    "contents": [
+      {
+        "type": "text",
+        "text": "hello, world"
+      }
+    ]
   },
   "footer": {
     "type": "box",
@@ -23,48 +22,12 @@
         "type": "button",
         "action": {
           "type": "uri",
-          "label": "action",
-          "uri": "http://linecorp.com/"
-        },
-        "style": "primary"
-      },
-      {
-        "type": "box",
-        "layout": "horizontal",
-        "contents": [
-          {
-            "type": "button",
-            "action": {
-              "type": "uri",
-              "label": "action",
-              "uri": "http://linecorp.com/"
-            },
-            "style": "primary"
-          },
-          {
-            "type": "button",
-            "action": {
-              "type": "uri",
-              "label": "action",
-              "uri": "http://linecorp.com/"
-            },
-            "style": "primary"
-          }
-        ],
-        "spacing": "sm"
-      },
-      {
-        "type": "button",
-        "action": {
-          "type": "uri",
-          "label": "action",
-          "uri": "http://linecorp.com/"
+          "label": "Shaer",
+          "uri": "https://bit.ly/3l7Vsru"
         },
         "style": "primary"
       }
-    ],
-    "spacing": "sm",
-    "offsetTop": "none"
+    ]
   }
 }
 }]
