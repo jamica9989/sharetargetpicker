@@ -52,7 +52,7 @@
         "action": {
           "type": "uri",
           "uri": "https://line.me/ti/p/~@fb89",
-          "label": "สมัครสมาชิก โค็ดเครดิตฟรี !"
+          "label": "สมัครสมาชิกรับโบนัส !"
         },
         "style": "primary",
         "color": "#0033FF"
@@ -88,8 +88,8 @@
         "type": "button",
         "action": {
           "type": "uri",
-          "label": "สมัครสมาชิกรับโบนัส",
-          "uri": "https://casinoauto.io/fastbet89/register"
+          "label": "กดแชร์เพื่อรับ โบนัสนี้",
+          "uri": "https://access.line.me/oauth2/v2.1/liff/shareTargetPicker?liffId=1657129833-v1aZV71Y&ott=1DwA9kmmzmPJpcjlrwe947"
         },
         "style": "primary",
         "color": "#0033FF"
