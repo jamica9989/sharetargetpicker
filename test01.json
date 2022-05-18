@@ -89,7 +89,7 @@
         "action": {
           "type": "uri",
           "label": "กดแชร์เพื่อรับ โบนัสนี้",
-          "uri": "https://access.line.me/oauth2/v2.1/liff/shareTargetPicker?liffId=1657129833-v1aZV71Y&ott=1DwA9kmmzmPJpcjlrwe947"
+          "uri": "https://liff.line.me/1657129833-v1aZV71Y?messages=https://jamica9989.github.io/sharetargetpicker/test01.json"
         },
         "style": "primary",
         "color": "#0033FF"
