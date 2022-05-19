@@ -1,0 +1,102 @@
+[{
+  "type": "flex",
+  "altText": "แนะนำ Vegus888",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://sv1.picz.in.th/images/2022/05/19/HqubUE.jpg",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "action": {
+      "type": "uri",
+      "label": "แนะนำ Vegus888",
+      "uri": "https://line.me/R/ti/p/@109aklsv"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "สมัครใหม่ รับฟรีเลยทันที",
+        "margin": "none",
+        "size": "lg",
+        "decoration": "none",
+        "gravity": "center",
+        "wrap": true,
+        "align": "center"
+      },
+      {
+        "type": "text",
+        "text": "สมัครรับโบนัส 15% เทริน์น้อย เว็ปตรงไม่ผ่านเอเย่นต์การันตี เท่าไหร่ก็จ่ายให้บริการมากกว่า5ปี",
+        "wrap": true,
+        "color": "#FF6600",
+        "gravity": "center",
+        "align": "center"
+      }
+    ],
+    "spacing": "none",
+    "margin": "none",
+    "cornerRadius": "none",
+    "borderWidth": "none"
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "uri": "https://line.me/R/ti/p/@109aklsv",
+          "label": "สมัครสมาชิกรับโบนัส !"
+        },
+        "style": "primary",
+        "color": "#0033FF"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับโบนัสฟรี 15%",
+              "uri": "https://line.me/R/ti/p/@109aklsv"
+            },
+            "style": "primary",
+            "color": "#0033FF"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "ช่วงนาทีทอง 10%",
+              "uri": "https://line.me/R/ti/p/@109aklsv"
+            },
+            "style": "primary",
+            "color": "#0033FF"
+          }
+        ],
+        "spacing": "sm"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "กดแชร์ภาพนี้",
+          "uri": "https://liff.line.me/1657146374-572RXnA3?messages=https://jamica9989.github.io/sharetargetpicker/vegus1.json"
+        },
+        "style": "primary",
+        "color": "#0033FF"
+      }
+    ],
+    "spacing": "sm",
+    "offsetTop": "none"
+  }
+}
+}]
