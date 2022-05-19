@@ -1,17 +1,18 @@
 [{
   "type": "flex",
-  "altText": "You received a message",
+  "altText": "กิจกรรมแจก200บาทฟรี",
   "contents": {
   "type": "bubble",
+  "size": "giga",
   "hero": {
     "type": "image",
-    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/01_1_cafe.png",
+    "url": "https://sv1.picz.in.th/images/2022/05/19/HqFe8Z.jpg",
     "size": "full",
-    "aspectRatio": "20:13",
-    "aspectMode": "cover",
+    "aspectRatio": "1:1",
     "action": {
       "type": "uri",
-      "uri": "http://linecorp.com/"
+      "label": "กิจกรรมแจก200บาทฟรี",
+      "uri": "https://line.me/R/ti/p/@109aklsv"
     }
   },
   "body": {
@@ -20,137 +21,55 @@
     "contents": [
       {
         "type": "text",
-        "text": "Brown Cafe",
-        "weight": "bold",
-        "size": "xl"
+        "text": "แจกทันทีคนละ 200 บาท",
+        "margin": "none",
+        "size": "lg",
+        "decoration": "none",
+        "gravity": "center",
+        "wrap": true,
+        "align": "center"
       },
       {
-        "type": "box",
-        "layout": "baseline",
-        "margin": "md",
-        "contents": [
-          {
-            "type": "icon",
-            "size": "sm",
-            "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
-          },
-          {
-            "type": "icon",
-            "size": "sm",
-            "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
-          },
-          {
-            "type": "icon",
-            "size": "sm",
-            "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
-          },
-          {
-            "type": "icon",
-            "size": "sm",
-            "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
-          },
-          {
-            "type": "icon",
-            "size": "sm",
-            "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png"
-          },
-          {
-            "type": "text",
-            "text": "4.0",
-            "size": "sm",
-            "color": "#999999",
-            "margin": "md",
-            "flex": 0
-          }
-        ]
-      },
-      {
-        "type": "box",
-        "layout": "vertical",
-        "margin": "lg",
-        "spacing": "sm",
-        "contents": [
-          {
-            "type": "box",
-            "layout": "baseline",
-            "spacing": "sm",
-            "contents": [
-              {
-                "type": "text",
-                "text": "Place",
-                "color": "#aaaaaa",
-                "size": "sm",
-                "flex": 1
-              },
-              {
-                "type": "text",
-                "text": "Miraina Tower, 4-1-6 Shinjuku, Tokyo",
-                "wrap": true,
-                "color": "#666666",
-                "size": "sm",
-                "flex": 5
-              }
-            ]
-          },
-          {
-            "type": "box",
-            "layout": "baseline",
-            "spacing": "sm",
-            "contents": [
-              {
-                "type": "text",
-                "text": "Time",
-                "color": "#aaaaaa",
-                "size": "sm",
-                "flex": 1
-              },
-              {
-                "type": "text",
-                "text": "10:00 - 23:00",
-                "wrap": true,
-                "color": "#666666",
-                "size": "sm",
-                "flex": 5
-              }
-            ]
-          }
-        ]
+        "type": "text",
+        "text": "กิจกรรมแจกเครดิต ท่านละ 200 บาท กติกาง่ายแสนง่ายฉลองครบ 5 ปี เพียงแค่แชร์ 5กลุ่ม สอบถามเพิ่มเติมคลิ๊กด้านล่าง",
+        "wrap": true,
+        "color": "#FF6600",
+        "gravity": "center",
+        "align": "center"
       }
-    ]
+    ],
+    "spacing": "none",
+    "margin": "none",
+    "cornerRadius": "none",
+    "borderWidth": "none"
   },
   "footer": {
     "type": "box",
     "layout": "vertical",
-    "spacing": "sm",
     "contents": [
       {
         "type": "button",
-        "style": "link",
-        "height": "sm",
         "action": {
           "type": "uri",
-          "label": "CALL",
-          "uri": "https://linecorp.com"
-        }
+          "uri": "https://line.me/R/ti/p/@109aklsv",
+          "label": "สอบถามกิจกรรมเพิ่มเติม !"
+        },
+        "style": "primary",
+        "color": "#0033FF"
       },
       {
         "type": "button",
-        "style": "link",
-        "height": "sm",
         "action": {
           "type": "uri",
-          "label": "WEBSITE",
-          "uri": "https://linecorp.com"
-        }
-      },
-      {
-        "type": "box",
-        "layout": "vertical",
-        "contents": [],
-        "margin": "sm"
+          "label": "แชร์กิจกรรมนี้",
+          "uri": "https://liff.line.me/1657147013-jqP64Ed4?messages=https://jamica9989.github.io/sharetargetpicker/vegus22.json"
+        },
+        "style": "primary",
+        "color": "#0033FF"
       }
     ],
-    "flex": 0
+    "spacing": "sm",
+    "offsetTop": "none"
   }
 }
 }]
