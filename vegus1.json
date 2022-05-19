@@ -1,18 +1,17 @@
 [{
   "type": "flex",
-  "altText": "แนะนำ Vegus888",
+  "altText": "You received a message",
   "contents": {
   "type": "bubble",
-  "size": "giga",
   "hero": {
     "type": "image",
-    "url": "https://sv1.picz.in.th/images/2022/05/19/HqubUE.jpg",
+    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/01_1_cafe.png",
     "size": "full",
-    "aspectRatio": "1:1",
+    "aspectRatio": "20:13",
+    "aspectMode": "cover",
     "action": {
       "type": "uri",
-      "label": "แนะนำ Vegus888",
-      "uri": "https://line.me/R/ti/p/@109aklsv"
+      "uri": "http://linecorp.com/"
     }
   },
   "body": {
@@ -21,82 +20,137 @@
     "contents": [
       {
         "type": "text",
-        "text": "สมัครใหม่ รับฟรีเลยทันที",
-        "margin": "none",
-        "size": "lg",
-        "decoration": "none",
-        "gravity": "center",
-        "wrap": true,
-        "align": "center"
+        "text": "Brown Cafe",
+        "weight": "bold",
+        "size": "xl"
       },
       {
-        "type": "text",
-        "text": "สมัครรับโบนัส 15% เทริน์น้อย เว็ปตรงไม่ผ่านเอเย่นต์การันตี เท่าไหร่ก็จ่ายให้บริการมากกว่า5ปี",
-        "wrap": true,
-        "color": "#FF6600",
-        "gravity": "center",
-        "align": "center"
+        "type": "box",
+        "layout": "baseline",
+        "margin": "md",
+        "contents": [
+          {
+            "type": "icon",
+            "size": "sm",
+            "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+          },
+          {
+            "type": "icon",
+            "size": "sm",
+            "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+          },
+          {
+            "type": "icon",
+            "size": "sm",
+            "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+          },
+          {
+            "type": "icon",
+            "size": "sm",
+            "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+          },
+          {
+            "type": "icon",
+            "size": "sm",
+            "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png"
+          },
+          {
+            "type": "text",
+            "text": "4.0",
+            "size": "sm",
+            "color": "#999999",
+            "margin": "md",
+            "flex": 0
+          }
+        ]
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Place",
+                "color": "#aaaaaa",
+                "size": "sm",
+                "flex": 1
+              },
+              {
+                "type": "text",
+                "text": "Miraina Tower, 4-1-6 Shinjuku, Tokyo",
+                "wrap": true,
+                "color": "#666666",
+                "size": "sm",
+                "flex": 5
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Time",
+                "color": "#aaaaaa",
+                "size": "sm",
+                "flex": 1
+              },
+              {
+                "type": "text",
+                "text": "10:00 - 23:00",
+                "wrap": true,
+                "color": "#666666",
+                "size": "sm",
+                "flex": 5
+              }
+            ]
+          }
+        ]
       }
-    ],
-    "spacing": "none",
-    "margin": "none",
-    "cornerRadius": "none",
-    "borderWidth": "none"
+    ]
   },
   "footer": {
     "type": "box",
     "layout": "vertical",
+    "spacing": "sm",
     "contents": [
       {
         "type": "button",
+        "style": "link",
+        "height": "sm",
         "action": {
           "type": "uri",
-          "uri": "https://line.me/R/ti/p/@109aklsv",
-          "label": "สมัครสมาชิกรับโบนัส !"
-        },
-        "style": "primary",
-        "color": "#0033FF"
-      },
-      {
-        "type": "box",
-        "layout": "horizontal",
-        "contents": [
-          {
-            "type": "button",
-            "action": {
-              "type": "uri",
-              "label": "รับโบนัสฟรี 15%",
-              "uri": "https://line.me/R/ti/p/@109aklsv"
-            },
-            "style": "primary",
-            "color": "#0033FF"
-          },
-          {
-            "type": "button",
-            "action": {
-              "type": "uri",
-              "label": "ช่วงนาทีทอง 10%",
-              "uri": "https://line.me/R/ti/p/@109aklsv"
-            },
-            "style": "primary",
-            "color": "#0033FF"
-          }
-        ],
-        "spacing": "sm"
+          "label": "CALL",
+          "uri": "https://linecorp.com"
+        }
       },
       {
         "type": "button",
+        "style": "link",
+        "height": "sm",
         "action": {
           "type": "uri",
-          "label": "กดแชร์ภาพนี้",
-          "uri": "https://liff.line.me/1657146374-572RXnA3?messages=https://jamica9989.github.io/sharetargetpicker/vegus1.json"
-        },
-        "style": "primary",
-        "color": "#0033FF"
+          "label": "WEBSITE",
+          "uri": "https://linecorp.com"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "margin": "sm"
       }
     ],
-    "spacing": "sm",
-    "offsetTop": "none"
+    "flex": 0
   }
 }
 }]
